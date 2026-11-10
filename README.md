@@ -200,4 +200,4 @@ This repository serves as the official landing page for Evernote. The software i
 **Get the most recent version of Evernote today!**
 
 ---
-**Last updated:** 2026-11-09 17:53:14 UTC
+**Last updated:** 2026-11-10 00:54:56 UTC
